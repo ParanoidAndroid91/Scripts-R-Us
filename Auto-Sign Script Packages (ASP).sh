@@ -11,6 +11,8 @@
 #	2. You have both Apple Developer certificates installed           #
 ###########################################################################
 
+# Once the above is in place, drag this script into a Terminal window and hit enter. You'll be prompted for an Admin password.
+
 # Set Variables (modify these as appropriate, the certificate names need to be completed to match your own)
 scriptPath="~/Desktop/FakeRoot/Library/Scripts/scriptName.sh"
 packageName="somePackage"    # No need to specify the .pkg extension as this will automatically be added later on!
